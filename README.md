@@ -3,7 +3,6 @@
 1. **Clone the repository:**
    ```
    git clone <your-repo-url>
-   cd GoQuant/assessment/frontend
    ```
 
 2. **Install dependencies:**
