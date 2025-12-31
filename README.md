@@ -18,12 +18,6 @@
 4. **Open in browser:**
    Visit [http://localhost:3000](http://localhost:3000)
 
-
-## Assumptions
-
-- Only BTC-USD, ETH-USD, and SOL-USD symbols are supported.
-- WebSocket APIs are publicly accessible and do not require authentication.
-
 ## API Documentation
 
 - [OKX WebSocket API](https://www.okx.com/docs-v5/en/#websocket-api)
